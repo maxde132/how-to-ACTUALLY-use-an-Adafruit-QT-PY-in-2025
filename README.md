@@ -43,4 +43,4 @@ Arduino IDE Settings:
   - USB Support: “None”
 
 **Final setup:**
-Now you can plug in any script you like, I recommend the blink.py in this reporitory (cuz it worked lol)
+Now you can plug in any script you like, I recommend the blink.ino in this reporitory 
